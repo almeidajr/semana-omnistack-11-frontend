@@ -31,7 +31,7 @@ function Logon() {
       <section className="form">
         <img src={logoImg} alt="Be The Hero" />
         <form onSubmit={handleLogon}>
-          <h1>Faça seu logon</h1>
+          <h1>Logon</h1>
           <input
             placeholder="Your ID"
             value={id}
